@@ -1,6 +1,6 @@
 {
   "name": "@dworznik/stream-diff",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Produce a stream consisting of the difference between two input object streams",
   "main": "index.js",
   "scripts": {
