@@ -1,0 +1,24 @@
+{
+  "name": "@dworznik/stream-diff",
+  "version": "1.0.0",
+  "description": "Produce a stream consisting of the difference between two input object streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Patryk Dworznik <patryk@dworznik.com>",
+  "license": "MIT",
+  "dependencies": {
+    "through": "^2.3.8"
+  },
+  "devDependencies": {
+    "@types/through": "0.0.30",
+    "jest": "^26.0.1",
+    "read-stream": "^2.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dworznik/stream-diff.git"
+  },
+  "homepage": "https://github.com/dworznik/stream-diff"
+}
